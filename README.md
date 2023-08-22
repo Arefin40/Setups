@@ -1,6 +1,6 @@
 <h1 align="center">VS Code Setting for LAB PC</h1>
 
-```JSON
+```JSONC
 {
    // explorer
    "explorer.autoReveal": false,
