@@ -2,6 +2,9 @@
 
 ```JSONC
 {
+   "workbench.colorTheme": "GitHub Dark",
+   "window.zoomLevel": 1,
+
    // explorer
    "explorer.autoReveal": false,
    "explorer.compactFolders": false,
@@ -9,6 +12,7 @@
    "explorer.confirmDragAndDrop": false,
 
    // editor
+   "editor.mouseWheelZoom": true,
    "editor.wordWrap": "on",
    "editor.tabSize": 3,
    "editor.minimap.enabled": false,
