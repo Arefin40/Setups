@@ -3,7 +3,6 @@
 ```JSONC
 {
    "workbench.colorTheme": "GitHub Dark",
-   "window.zoomLevel": 1,
 
    // explorer
    "explorer.autoReveal": false,
